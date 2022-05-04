@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/static/css/main.3740ffb8.css",
-    "main.js": "/github.io/static/js/main.d15497ec.js",
-    "static/js/787.1d63c5d4.chunk.js": "/github.io/static/js/787.1d63c5d4.chunk.js",
-    "index.html": "/github.io/index.html",
-    "main.3740ffb8.css.map": "/github.io/static/css/main.3740ffb8.css.map",
-    "main.d15497ec.js.map": "/github.io/static/js/main.d15497ec.js.map",
-    "787.1d63c5d4.chunk.js.map": "/github.io/static/js/787.1d63c5d4.chunk.js.map"
+    "main.css": "/mars_elearning_prj/static/css/main.3740ffb8.css",
+    "main.js": "/mars_elearning_prj/static/js/main.a5957d03.js",
+    "static/js/787.1d63c5d4.chunk.js": "/mars_elearning_prj/static/js/787.1d63c5d4.chunk.js",
+    "index.html": "/mars_elearning_prj/index.html",
+    "main.3740ffb8.css.map": "/mars_elearning_prj/static/css/main.3740ffb8.css.map",
+    "main.a5957d03.js.map": "/mars_elearning_prj/static/js/main.a5957d03.js.map",
+    "787.1d63c5d4.chunk.js.map": "/mars_elearning_prj/static/js/787.1d63c5d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3740ffb8.css",
-    "static/js/main.d15497ec.js"
+    "static/js/main.a5957d03.js"
   ]
 }
