@@ -1,0 +1,23 @@
+.title {
+  text-align: center;
+}
+
+.enrol,
+.delete {
+  margin: 10px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th {
+  font-weight: bold;
+}
+table {
+  margin: auto;
+  width: 60%;
+  border-collapse: collapse;
+}
